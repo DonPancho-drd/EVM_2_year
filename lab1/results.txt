@@ -1,0 +1,176 @@
+Start
+________________Optimization flag: -O0 ________________
+N = 84000
+1. Time taken: 22.430000 sec.
+2. Time taken: 23.020000 sec.
+3. Time taken: 23.310000 sec.
+4. Time taken: 24.810000 sec.
+5. Time taken: 26.190000 sec.
+N = 102000
+1. Time taken: 42.170000 sec.
+2. Time taken: 42.590000 sec.
+3. Time taken: 46.020000 sec.
+4. Time taken: 41.640000 sec.
+5. Time taken: 40.160000 sec.
+N = 120000
+1. Time taken: 58.110000 sec.
+2. Time taken: 56.160000 sec.
+3. Time taken: 54.520000 sec.
+4. Time taken: 54.190000 sec.
+5. Time taken: 55.890000 sec.
+N = 138000
+1. Time taken: 72.820000 sec.
+2. Time taken: 78.070000 sec.
+3. Time taken: 74.450000 sec.
+4. Time taken: 72.640000 sec.
+5. Time taken: 77.300000 sec.
+________________Optimization flag: -O1 ________________
+N = 84000
+1. Time taken: 16.920000 sec.
+2. Time taken: 17.070000 sec.
+3. Time taken: 17.590000 sec.
+4. Time taken: 16.510000 sec.
+5. Time taken: 17.270000 sec.
+N = 102000
+1. Time taken: 27.140000 sec.
+2. Time taken: 26.870000 sec.
+3. Time taken: 26.630000 sec.
+4. Time taken: 21.180000 sec.
+5. Time taken: 19.750000 sec.
+N = 120000
+1. Time taken: 28.580000 sec.
+2. Time taken: 27.870000 sec.
+3. Time taken: 28.550000 sec.
+4. Time taken: 30.950000 sec.
+5. Time taken: 29.910000 sec.
+N = 138000
+1. Time taken: 39.580000 sec.
+2. Time taken: 38.380000 sec.
+3. Time taken: 38.140000 sec.
+4. Time taken: 37.740000 sec.
+5. Time taken: 37.510000 sec.
+________________Optimization flag: -O2 ________________
+N = 84000
+1. Time taken: 15.010000 sec.
+2. Time taken: 15.350000 sec.
+3. Time taken: 13.720000 sec.
+4. Time taken: 14.710000 sec.
+5. Time taken: 13.540000 sec.
+N = 102000
+1. Time taken: 20.280000 sec.
+2. Time taken: 21.930000 sec.
+3. Time taken: 21.340000 sec.
+4. Time taken: 20.240000 sec.
+5. Time taken: 20.050000 sec.
+N = 120000
+1. Time taken: 36.290000 sec.
+2. Time taken: 28.620000 sec.
+3. Time taken: 30.510000 sec.
+4. Time taken: 28.470000 sec.
+5. Time taken: 28.330000 sec.
+N = 138000
+1. Time taken: 39.090000 sec.
+2. Time taken: 44.280000 sec.
+3. Time taken: 38.140000 sec.
+4. Time taken: 39.540000 sec.
+5. Time taken: 38.950000 sec.
+________________Optimization flag: -O3 ________________
+N = 84000
+1. Time taken: 27.120000 sec.
+2. Time taken: 26.890000 sec.
+3. Time taken: 25.530000 sec.
+4. Time taken: 26.940000 sec.
+5. Time taken: 24.560000 sec.
+N = 102000
+1. Time taken: 36.140000 sec.
+2. Time taken: 36.530000 sec.
+3. Time taken: 36.450000 sec.
+4. Time taken: 45.050000 sec.
+5. Time taken: 40.340000 sec.
+N = 120000
+1. Time taken: 52.880000 sec.
+2. Time taken: 52.390000 sec.
+3. Time taken: 51.810000 sec.
+4. Time taken: 52.530000 sec.
+5. Time taken: 52.280000 sec.
+N = 138000
+1. Time taken: 68.410000 sec.
+2. Time taken: 71.950000 sec.
+3. Time taken: 71.710000 sec.
+4. Time taken: 68.750000 sec.
+5. Time taken: 72.060000 sec.
+________________Optimization flag: -Ofast ________________
+N = 84000
+1. Time taken: 25.010000 sec.
+2. Time taken: 24.680000 sec.
+3. Time taken: 24.670000 sec.
+4. Time taken: 26.740000 sec.
+5. Time taken: 25.620000 sec.
+N = 102000
+1. Time taken: 37.360000 sec.
+2. Time taken: 38.310000 sec.
+3. Time taken: 45.570000 sec.
+4. Time taken: 43.830000 sec.
+5. Time taken: 40.910000 sec.
+N = 120000
+1. Time taken: 59.160000 sec.
+2. Time taken: 54.830000 sec.
+3. Time taken: 57.730000 sec.
+4. Time taken: 61.980000 sec.
+5. Time taken: 54.370000 sec.
+N = 138000
+1. Time taken: 86.490000 sec.
+2. Time taken: 72.480000 sec.
+3. Time taken: 72.540000 sec.
+4. Time taken: 78.590000 sec.
+5. Time taken: 70.550000 sec.
+________________Optimization flag: -Os ________________
+N = 84000
+1. Time taken: 14.030000 sec.
+2. Time taken: 13.760000 sec.
+3. Time taken: 13.680000 sec.
+4. Time taken: 13.620000 sec.
+5. Time taken: 13.620000 sec.
+N = 102000
+1. Time taken: 21.430000 sec.
+2. Time taken: 20.530000 sec.
+3. Time taken: 20.540000 sec.
+4. Time taken: 21.540000 sec.
+5. Time taken: 24.780000 sec.
+N = 120000
+1. Time taken: 38.280000 sec.
+2. Time taken: 30.480000 sec.
+3. Time taken: 31.700000 sec.
+4. Time taken: 29.240000 sec.
+5. Time taken: 29.490000 sec.
+N = 138000
+1. Time taken: 40.000000 sec.
+2. Time taken: 40.170000 sec.
+3. Time taken: 38.500000 sec.
+4. Time taken: 38.710000 sec.
+5. Time taken: 38.070000 sec.
+________________Optimization flag: -Og ________________
+N = 84000
+1. Time taken: 14.670000 sec.
+2. Time taken: 14.970000 sec.
+3. Time taken: 14.660000 sec.
+4. Time taken: 14.920000 sec.
+5. Time taken: 14.590000 sec.
+N = 102000
+1. Time taken: 23.090000 sec.
+2. Time taken: 28.070000 sec.
+3. Time taken: 28.950000 sec.
+4. Time taken: 29.250000 sec.
+5. Time taken: 22.540000 sec.
+N = 120000
+1. Time taken: 31.980000 sec.
+2. Time taken: 33.100000 sec.
+3. Time taken: 31.770000 sec.
+4. Time taken: 31.620000 sec.
+5. Time taken: 31.880000 sec.
+N = 138000
+1. Time taken: 42.340000 sec.
+2. Time taken: 41.720000 sec.
+3. Time taken: 41.760000 sec.
+4. Time taken: 43.750000 sec.
+5. Time taken: 42.360000 sec.
