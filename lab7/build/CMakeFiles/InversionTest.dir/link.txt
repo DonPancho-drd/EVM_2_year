@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/InversionTest.dir/inversion_test.cpp.o -o InversionTest  -lgtest -lgtest_main /usr/lib/x86_64-linux-gnu/libopenblas.so 

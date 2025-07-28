@@ -1,4 +1,0 @@
-/home/darya/evm/lab7/build/CMakeFiles/InversionTest.dir
-/home/darya/evm/lab7/build/CMakeFiles/test.dir
-/home/darya/evm/lab7/build/CMakeFiles/edit_cache.dir
-/home/darya/evm/lab7/build/CMakeFiles/rebuild_cache.dir
